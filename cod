@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+      <title> CV Rojas Maria Azul </title>
+      <meta charset= "UTF-8">
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body >
+  <div class="body">
+
+  <div class="title">
+    <h1>  Rojas Ailen Maria Azul   </h1> 
+  </div>   
+    
+     <img src="Imagen01.jpg" width="300" height="300" />
+
+  <div class="titulos">
+    <h2> Contacto </h2>
+  </div>
+
+  <div class="textos"
+    <ul> 
+        <li> Correo electronico: azulm.rojas@gmail.com </li>
+        <li> Celular: 3718464819 </li>
+        <li> Nacionalidad: Argentina </li>
+        <li> Provincia: Formosa </li>
+        <li> Fecha de nacimiento : 29/10/2001 </li>
+
+    </ul>
+  </div>
+
+  <div class="titulos">
+   <h2>  Sobre mí </h2>
+  </div> 
+
+      <ul>
+        <li> Soy una persona con predisposicion al servicio, comprometida y organizada.
+            Busco capacitarme constantemente y sumar nuevas experiencias. </li>
+      </ul>
+  
+  <div class="titulos">
+   <h2>  Experiencia laboral </h2>
+  </div> 
+
+     <ul>
+       <li> Asistente Administrativa - Gestoria Fernandez  <br />
+                    Mayo 2022 - Septiembre 2022 <br />
+            - Atencion al cliente mediante whatsapp y correo electronico <br />
+            - Organizacion de agenda <br />
+            - Gestion de tramites y redaccion de documentos <br />   </li>
+            <br />
+            <li> Asistente Administrativa - Asoc. Española de Socorros Mutuos  <br />
+                Febrero 2020 - Marzo 2020 <br />
+        - Asistencia a mesa de entrada. Organizacion de libro de entrada y salida. Mantenimiento de archivo. <br />
+        - Organizacion de agenda <br />
+        - Redaccion de reportes <br />   </li>
+            
+     </ul>
+
+   <div class="titulos">
+   <h2>  Formacion Academica </h2>
+   </div>
+     
+     <ul>
+       <li> Universidad Nacional de Formosa - Tecnicatura Universitaria en Analisis y Desarrollo de Software <br />
+            2022- Actualmente <br />  </li>
+            <br />
+       <li> EPES N° 28 "San Francisco de Asis <br />
+            2016 - 2019 <br /> </li>
+     </ul>
+
+     <div class="titulos">
+     <h2> Competencias </h2>
+     </div>
+
+     <ul>
+       <li>	Comunicacion Efectiva <br />  </li>
+       <li> Orientacion al cliente <br /> </li>
+       <li> Resolucion de conflictos <br /> </li>
+        <br /> 
+        <li> Manejo de paquete office <br /> </li>
+        <li> Manejo de herramientas de visualizacion <br /> </li>
+     </ul>
+  
+
+
+     </div>
+
+
+
+
+
+   </body>
+</html>
